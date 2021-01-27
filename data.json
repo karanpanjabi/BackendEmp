@@ -1,6 +1,23 @@
-{
-    "id": 1,
-    "name": "Karan",
-    "desc": "Employee description",
-    "age": 22
-}
+[
+    {
+        "id": 1,
+        "name": "Karan",
+        "desc": "Employee description",
+        "salary": 60000,
+        "age": 22
+    },
+    {
+        "id": 2,
+        "name": "Aniket",
+        "desc": "Employee description",
+        "salary": 60000,
+        "age": 22
+    },
+    {
+        "id": 3,
+        "name": "Sulekha",
+        "desc": "Employee description",
+        "salary": 60000,
+        "age": 22
+    }
+]
